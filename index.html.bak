@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Survey</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="author" content="colorlib.com">
+
+	<!-- MATERIAL DESIGN ICONIC FONT -->
+	<link rel="stylesheet" href="fonts/material-design-iconic-font/css/material-design-iconic-font.css">
+
+	<!-- STYLE CSS -->
+	<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+	<div class="wrapper">
+		<form action="" id="wizard">
+			<!-- SECTION 1 -->
+			<h2></h2>
+			<section>
+				<div class="inner">
+					<div class="form-content">
+						<div class="form-header">
+							<h3>REGISTRATION</h3>
+						</div>
+						<p>Silahkan isi data diri anda</p>
+						<div class="form-row">
+							<div class="form-holder">
+								<input type="text" placeholder="Name" class="form-control">
+							</div>
+							<div class="form-holder">
+								<input type="text" placeholder="Your Email" class="form-control">
+							</div>
+						</div>
+						<div class="form-row">
+							<div class="form-holder">
+								<input type="text" placeholder="Age" class="form-control">
+							</div>
+							<div class="form-holder">
+								<input type="text" placeholder="Phone Number" class="form-control">
+							</div>
+						</div>
+						<div class="form-row">
+							<div class="form-holder">
+								<input type="text" placeholder="Occupation" class="form-control">
+							</div>
+							<div class="form-holder" style="align-self: flex-end; transform: translateY(4px);">
+								<div class="checkbox-tick">
+									<label class="male">
+										<input type="radio" name="gender" value="male" checked> Male<br>
+										<span class="checkmark"></span>
+									</label>
+									<label class="female">
+										<input type="radio" name="gender" value="female"> Female<br>
+										<span class="checkmark"></span>
+									</label>
+								</div>
+							</div>
+						</div>
+						<div class="form-row-address">
+							<div class="form-holder">
+								<input type="text" placeholder="Full Address" class="form-control">
+							</div>
+						</div>
+						<!-- <div class="checkbox-circle">
+							<label>
+								<input type="checkbox" checked> Nor again is there anyone who loves or pursues or desires to obtaini.
+								<span class="checkmark"></span>
+							</label>
+						</div> -->
+					</div>
+				</div>
+			</section>
+
+			<!-- SECTION 2 -->
+			<h2></h2>
+			<section>
+				<div class="inner">
+					<div class="form-content" >
+						<div class="form-header">
+							<h3>SURVEY</h3>
+						</div>
+						<p>Silahkan isi 5 pertanyaan dibawah ini</p>
+						1. Bagaimana penilaian Bapak/Ibu terhadap kinerja 100 hari pertama pemerintahan  Jokowi-Amin secara keseluruhan
+
+						<div class="checkbox-tick">
+							<label class="male">
+								<input type="radio" name="satu" value="1"> 1 <br>
+								<span class="checkmark"></span>
+							</label>
+							<label class="male">
+								<input type="radio" name="satu" value="2"> 2 <br>
+								<span class="checkmark"></span>
+							</label>
+							<label class="male">
+								<input type="radio" name="satu" value="3"> 3 <br>
+								<span class="checkmark"></span>
+							</label>
+							<label class="male">
+								<input type="radio" name="satu" value="4"> 4 <br>
+								<span class="checkmark"></span>
+							</label>
+							<label class="male">
+								<input type="radio" name="satu" value="5"> 5 <br>
+								<span class="checkmark"></span>
+							</label>
+							<label class="male">
+								<input type="radio" name="satu" value="6"> 6 <br>
+								<span class="checkmark"></span>
+							</label>
+							<label class="male">
+								<input type="radio" name="satu" value="7"> 7 <br>
+								<span class="checkmark"></span>
+							</label>
+							<label class="male">
+								<input type="radio" name="satu" value="8"> 8 <br>
+								<span class="checkmark"></span>
+							</label>
+							<label class="male">
+								<input type="radio" name="satu" value="9"> 9 <br>
+								<span class="checkmark"></span>
+							</label>
+							<label class="male">
+								<input type="radio" name="satu" value="10"> 10 <br>
+								<span class="checkmark"></span>
+							</label>
+						</div>
+						
+					</div>
+				</div>
+			</section>
+
+			<!-- SECTION 3 -->
+			<h2></h2>
+			<section>
+				<div class="inner">
+					<div class="form-content">
+						<div class="form-header">
+							<h3>SURVEY</h3>
+						</div>
+						<p>Silahkan isi 5 pertanyaan dibawah ini</p>
+						<!-- <div class="form-row">
+							<div class="form-holder w-100">
+								<textarea name="" id="" placeholder="Your messagere here!" class="form-control" style="height: 99px;"></textarea>
+							</div>
+						</div>
+						<div class="checkbox-circle mt-24">
+							<label>
+								<input type="checkbox" checked>  Please accept <a href="#">terms and conditions ?</a>
+								<span class="checkmark"></span>
+							</label>
+						</div>
+					</div> -->
+				</div>
+			</section>
+
+			<!-- SECTION 4 -->
+			<h2></h2>
+			<section>
+				<div class="inner">
+					<div class="form-content">
+						<div class="form-header">
+							<h3>SURVEY</h3>
+						</div>
+						<p>Silahkan isi 5 pertanyaan dibawah ini</p>
+						<!-- <div class="form-row">
+							<div class="form-holder w-100">
+								<textarea name="" id="" placeholder="Your messagere here!" class="form-control" style="height: 99px;"></textarea>
+							</div>
+						</div>
+						<div class="checkbox-circle mt-24">
+							<label>
+								<input type="checkbox" checked>  Please accept <a href="#">terms and conditions ?</a>
+								<span class="checkmark"></span>
+							</label>
+						</div> -->
+					</div>
+				</div>
+			</section>
+
+
+			<!-- SECTION 5 -->
+			<h2></h2>
+			<section>
+				<div class="inner">
+					<div class="form-content">
+						<div class="form-header">
+							<h3>SURVEY</h3>
+						</div>
+						<p>Silahkan isi 5 pertanyaan dibawah ini</p>
+						<!-- <div class="form-row">
+							<div class="form-holder w-100">
+								<textarea name="" id="" placeholder="Your messagere here!" class="form-control" style="height: 99px;"></textarea>
+							</div>
+						</div>
+						<div class="checkbox-circle mt-24">
+							<label>
+								<input type="checkbox" checked>  Please accept <a href="#">terms and conditions ?</a>
+								<span class="checkmark"></span>
+							</label>
+						</div> -->
+					</div>
+				</div>
+			</section>
+		</form>
+	</div>
+
+	<!-- JQUERY -->
+	<script src="js/jquery-3.3.1.min.js"></script>
+
+	<!-- JQUERY STEP -->
+	<script src="js/jquery.steps.js"></script>
+	<script src="js/main.js"></script>
+	<!-- Template created and distributed by Colorlib -->
+</body>
+</html>
